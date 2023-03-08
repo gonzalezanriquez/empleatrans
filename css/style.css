@@ -1,0 +1,11 @@
+:root{
+    --fontFamily: 'Nunito Sans', sans-serif;
+    --fontWidth: 900;
+    --fontSize:3.5rem;
+}
+
+h1{
+    font-family:var(--fontFamily);
+    font-weight: var(--fontWidth);
+    font-size: var(--fontSize);
+}
